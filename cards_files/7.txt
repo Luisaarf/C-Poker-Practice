@@ -1,0 +1,7 @@
+1;1;Paus
+9;1;Espadas
+8;1;Copas
+10;0;Espadas
+13;0;Espadas
+12;1;Espadas
+11;1;Espadas

@@ -1,0 +1,7 @@
+11;0;Espadas
+4;1;Ouros
+6;1;Copas
+10;0;Espadas
+1;1;Copas
+13;1;Copas
+12;1;Espadas

@@ -1,0 +1,7 @@
+9;1;Ouros
+8;1;Ouros
+10;1;Ouros
+11;0;Ouros
+9;1;Espadas
+9;1;Paus
+9;0;Copas

@@ -1,0 +1,7 @@
+13;1;Paus
+12;1;Paus
+11;0;Paus
+1;0;Paus
+5;1;Copas
+10;1;Paus
+7;1;Ouros
