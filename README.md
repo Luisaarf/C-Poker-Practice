@@ -1,2 +1,5 @@
-# C-Poker-Practice
-I made this project in class with my friend Pedro Augusto Facco Machado to learn about data structure in C#
+<h1 align="center"> C# Poker Practice </h1>
+
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPED&color=RED&style=for-the-badge"/>
+</p> <br>
